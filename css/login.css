@@ -1,0 +1,14 @@
+#login_form {
+    width: 30%;
+    display: block;
+    margin: 0 35% 0 35%;
+}
+
+#btn {
+    margin: 8px;
+}
+
+.error {
+    color: red;
+    margin: 30px;
+}
